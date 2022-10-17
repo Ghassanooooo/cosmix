@@ -1,1 +1,4 @@
-# Publishing 1 Days
+# cosmix - bootstrap, jquery, wow, font-awesome, and owl carousel
+
+
+![cosmix](/cosmix.png)
